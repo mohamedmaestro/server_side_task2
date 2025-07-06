@@ -12,12 +12,6 @@ This is a Spring Boot server-side application that provides a RESTful API for ma
 - Support for all-day events and multi-day events
 - Automatic duration calculation (in hours and minutes)
 
-### Flexible Event Retrieval
-
-- Get all events sorted by start time
-- Filter events by specific day, week, or month
-- Handle events that span multiple days
-
 ### Database Support
 
 - Uses MySQL as the database
